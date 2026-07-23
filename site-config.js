@@ -4,7 +4,7 @@ import { initLanyard } from './status.js';
 // API Configuration
 const API_CONFIG = {
     nsHost: 'https://ns.miaa.dev',
-    profileId: 'miaadev',
+    profileId: 'amebunnii',
     productId: 'product_5cafa9c5-b53b-439a-8639-79ed8766f5d2',
     timeout: 5000,
     retryAttempts: 2
